@@ -18,3 +18,10 @@ https://roadmap.sh/projects/github-user-activity
 Build a caching server that caches responses from other servers.
 
 https://roadmap.sh/projects/caching-server
+
+
+## Expense Tracker
+
+Build a simple expense tracker to manage your finances.
+
+https://roadmap.sh/projects/expense-tracker
