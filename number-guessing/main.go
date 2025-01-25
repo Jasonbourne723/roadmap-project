@@ -21,7 +21,7 @@ func main() {
 	fmt.Println("")
 
 	for {
-		nums := rand.Int31n(100) + 1 // 1-100
+		nums = rand.Int31n(100) + 1 // 1-100
 		fmt.Println("Please select the difficulty level:")
 		fmt.Println("1. Easy (10 chances)\n2. Medium (5 chances)\n3. Hard (3 chances)")
 
