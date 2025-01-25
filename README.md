@@ -31,3 +31,15 @@ https://roadmap.sh/projects/expense-tracker
 Build a simple number guessing game to test your luck.
 
 https://roadmap.sh/projects/number-guessing-game
+
+## Unit Converter
+
+Unit converter to convert between different units of measurement.
+
+https://roadmap.sh/projects/unit-converter
+
+## URL Shortening Service
+
+Build a URL Shortener API that helps shorten long URLs.
+
+https://roadmap.sh/projects/url-shortening-service
