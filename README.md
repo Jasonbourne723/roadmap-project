@@ -25,3 +25,9 @@ https://roadmap.sh/projects/caching-server
 Build a simple expense tracker to manage your finances.
 
 https://roadmap.sh/projects/expense-tracker
+
+## Number Guessing Game
+
+Build a simple number guessing game to test your luck.
+
+https://roadmap.sh/projects/number-guessing-game
